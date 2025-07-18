@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # Commenté ou ignoré tant que tsc n’est pas prêt
+     
       # - name: Type Check
       #   run: npx tsc --noEmit || echo "Type check skipped"
 
